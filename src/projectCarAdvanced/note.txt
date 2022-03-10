@@ -1,0 +1,5 @@
++JON xây dựng ứng dụng chọn xe
++ Thực hiện chức năng chọn màu xe
++ Thực hiện chức năng chọn bánh xe 
++ Thực hiện chức năng xoay xe sử dụng thư viện
+js-cloudingimage-360-view

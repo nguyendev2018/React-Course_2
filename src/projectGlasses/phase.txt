@@ -1,0 +1,3 @@
+Bước 1 : Tạo giao diện cho người dùng thử kính
+Bước 2 : Load những phần tử của giao diện từ Json
+Bước 3 : Xác định thành phần thay đổi giao diện -> Lưu trữ vào state

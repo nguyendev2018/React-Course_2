@@ -1,0 +1,79 @@
+[
+    {
+      "maPhim": 1290,
+      "tenPhim": "Mad Max: Fury Road",
+      "biDanh": "mad-max-fury-road",
+      "trailer": "https://www.youtube.com/embed/hEJnMQG9ev8",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/3_jasdws.png",
+      "moTa": "In a stark desert landscape where humanity is broken, two rebels just might be able to restore order: Max, a man of action and of few words, and Furiosa, a woman of action who is looking to make it back to her childhood homeland.",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    },
+    {
+      "maPhim": 1291,
+      "tenPhim": "True Detective",
+      "biDanh": "true-detective",
+      "trailer": "https://www.youtube.com/embed/TXwCoNwBSkQ",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/3_jasdws.png",
+      "moTa": "An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    },
+    {
+      "maPhim": 1292,
+      "tenPhim": "The Longest Ride",
+      "biDanh": "the-longest-ride",
+      "trailer": "https://www.youtube.com/embed/FUS_Q7FsfqU",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/1_dzhf02.png",
+      "moTa": "After an automobile crash, the lives of a young couple intertwine with a much older man, as he reflects back on a past love.",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    },
+    {
+      "maPhim": 1293,
+      "tenPhim": "The Walking Dead",
+      "biDanh": "the-walking-dead",
+      "trailer": "https://www.youtube.com/embed/R1v0uFms68U",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/2_jdzgpv.png",
+      "moTa": "Sheriff's Deputy Rick Grimes leads a group of survivors in a world overrun by zombies.",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    },
+    {
+      "maPhim": 1294,
+      "tenPhim": "Southpaw",
+      "biDanh": "southpaw",
+      "trailer": "https://www.youtube.com/embed/Mh2ebPxhoLs",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/x5_zr7srz.png",
+      "moTa": "Boxer Billy Hope turns to trainer Tick Willis to help him get his life back on track after losing his wife in a tragic accident and his daughter to child protection services.",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    },
+    {
+      "maPhim": 1295,
+      "tenPhim": "Specter",
+      "biDanh": "specter",
+      "trailer": "https://www.youtube.com/embed/LTDaET-JweU",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/x3_pecjny.png",
+      "moTa": "A cryptic message from Bond's past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    },
+    {
+      "maPhim": 1296,
+      "tenPhim": "Avengers: Infinity War ",
+      "biDanh": "avengers-infinity-war",
+      "trailer": "https://www.youtube.com/embed/DKqu9qc-5f4",
+      "hinhAnh": "https://res.cloudinary.com/dtwnt4knx/image/upload/v1642837438/bmw/Specials/4_nebxwh.png",
+      "moTa": "Biệt đội siêu anh hùng Avengers và những đồng minh sẽ phải sẵn sàng hi sinh tính mạng để chống lại siêu ác nhân hùng mạnh Thanos trước khi hắn phá huỷ mọi thứ và đặt dấu chấm hết cho vũ trụ. ",
+      "maNhom": "GP00",
+      "ngayKhoiChieu": "2019-07-29T00:00:00",
+      "danhGia": 5
+    }
+  ]
