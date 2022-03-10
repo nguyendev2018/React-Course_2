@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Thu Mar 10 2022 14:58:05 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+
+
+Created files:
+* .autogit/logs/log-10-2-2022-14-27-50.txt
+* src/DemoContext/DemoContext.js
+* src/DemoContext/LikeProfile.js
+* src/DemoContext/ModelProfile.js
+* src/DemoContext/_Provider/ModelStateProvider.js
+
+
+Deleted files:
+
+
+Renamed files:
