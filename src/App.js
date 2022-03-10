@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import ProjectCarAdvanced from './projectCarAdvanced/ProjectCarAdvanced';
 import DemoContext from './DemoContext/DemoContext';
 
 

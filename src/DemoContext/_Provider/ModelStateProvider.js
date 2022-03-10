@@ -14,8 +14,12 @@ export default class ModelStateProvider extends Component {
     render() {
         return (
             <div>
-                <ModelContext.Provider>
+                {/* từ context sử dụng provider để chia sẻ state cho các 
+                child component
+                */}
+                <ModelContext.Provider value={{ stateLike: this.state.like, setState: this.setLike }}>
                     {/* Phạm vi sử dụng context  */}
+                    {this.props.children}
                 </ModelContext.Provider>
             </div>
         )
