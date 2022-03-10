@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import ProjectCarAdvanced from './projectCarAdvanced/ProjectCarAdvanced';
+import DemoContext from './DemoContext/DemoContext';
 
 
 
@@ -8,7 +9,7 @@ import ProjectCarAdvanced from './projectCarAdvanced/ProjectCarAdvanced';
 function App() {
   return (
     <div className="App">
-      <ProjectCarAdvanced />
+      <DemoContext />
     </div>
   );
 }
